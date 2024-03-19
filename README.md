@@ -1,10 +1,10 @@
-# Cybermesterskaberne-2024-Write-Ups
+# DDC 2024 Write-Ups
 Hej! 
 
-These are my write-ups for the Cybermesterskaberne Seniors Qualifying Round. They'll include the flag as well as detailed instructions to help you understand how to get the solution!
+These are my write-ups for the DDC Seniors Qualifying Round. They'll include the flag as well as detailed instructions to help you understand how to get the solution!
 
 ### In full transparency...
-I didn't actually start on these challenges until 18/3 (I found the CTF the day after it ended), so I'm uploading these write-ups as I do the challenges. No clue how long it'll take me, I'd like to do all of them for fun, but we'll see!
+I didn't actually start on these challenges until 18/3 (I found the CTF the day after it ended), so I'm uploading these write-ups as I do the challenges. No clue how long it'll take me. I'd like to do all of them for fun, but we'll see!
 
 # Table of Contents
 ## Cryptography
